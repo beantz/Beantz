@@ -12,3 +12,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
 </div>
+
+<div align="center">
+  <img scr="https://profile-counter.glitch.me/beantz/count.svg?" />
+</div>
