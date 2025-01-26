@@ -1,4 +1,13 @@
-## oie, eu sou a bea
+
+# Olá, eu sou a Beatriz! 👋
+
+
+## 🚀 Sobre mim
+Eu sou uma estudante de TI, possuo interesse e tenho me dedicado a aprimorar meus conhecimentos e habilidades em desenvolvimento back-end com laravel/php, com objetivo de me tornar uma desenvolvedora web...
+
+
+## 🛠 Habilidades
+php, Laravel, html, css...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beantz&layout=compact)
